@@ -39,7 +39,7 @@ AI Engineer with a strong background in deep learning, computer vision, and auto
 - Advanced computer vision and image processing
 - Large Language Models and generative AI
 - Cloud-native AI deployment (GCP, AWS)
-- Modern backend frameworks (FastAPI, Next.js)
+- Modern backend frameworks (FastAPI)
 
 ## 📊 GitHub Stats
 
